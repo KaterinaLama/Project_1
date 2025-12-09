@@ -1,4 +1,4 @@
-# 📦 Project1_06Dec2025
+# 📦 Project1
 
 <p align="center">
   <img src="assets/banner.png" alt="Project Banner" width="100%">
