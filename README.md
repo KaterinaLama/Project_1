@@ -51,4 +51,8 @@ Stored in the directory:
 
 ## 📝 4. Results
 
-Results are presented in the final analysis notebook and accompanying visualizations. Add links or highlights here as needed.
+Results are presented in the powerpoint file
+
+Saved under:
+**`/presentation`**
+
