@@ -1,16 +1,54 @@
-# Project1_06Dec2025: Exploratory Data Analysis of Amazon dataset
+# 📦 Project1_06Dec2025
 
-Participants: Themis Mamatsopoulos, Manos Polydoros, Katerina Lama
+<p align="center">
+  <img src="assets/banner.png" alt="Project Banner" width="100%">
+</p>
 
-1)Download from: https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset
-  Folder: data
+### **Exploratory Data Analysis (EDA) of an Amazon Sales Dataset**
 
-2)Perform data cleaning according the Project1_Data_Cleaning.ipynb 
-  Output file: df_cleaned.csv
-  Folder: cleaning
+**Participants:**
+Themis Mamatsopoulos · Manos Polydoros · Aikaterini Lama
 
-3)Perform EDA on the above output file according the Project1_Data_Analysis.ipynb
-  Folder: analysis
+---
 
-4)Results presented in the ppt file
-  Folder: presentation
+## 📁 1. Dataset
+
+The dataset used for this project can be downloaded from Kaggle:
+
+🔗 **Amazon Sales Dataset**
+[https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset)
+
+Stored in the repository under:
+**`/data`**
+
+---
+
+## 🧹 2. Data Cleaning
+
+Data cleaning is performed using the notebook:
+
+* **`Project1_Data_Cleaning.ipynb`**
+
+The cleaning process produces the following output file:
+
+* **`df_cleaned.csv`**
+
+Saved under:
+**`/cleaning`**
+
+---
+
+## 📊 3. Exploratory Data Analysis (EDA)
+
+EDA is conducted on the cleaned dataset using:
+
+* **`Project1_Data_Analysis.ipynb`**
+
+Stored in the directory:
+**`/analysis`**
+
+---
+
+## 📝 4. Results
+
+Results are presented in the final analysis notebook and accompanying visualizations. Add links or highlights here as needed.
