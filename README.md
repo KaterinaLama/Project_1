@@ -1,7 +1,7 @@
-# 📦 Project1_06Dec2025
+# 📦 Project1
 
 <p align="center">
-  <img src="assets/banner.png" alt="Project Banner" width="100%">
+  <img src="assets/banner.png" alt="Project Banner" width="70%">
 </p>
 
 ### **Exploratory Data Analysis (EDA) of an Amazon Sales Dataset**
